@@ -1,0 +1,535 @@
+{"symbol": "APC.F", "name": "Apple Inc.", "currency": "EUR", "exchangeFullName": "Frankfurt Stock Exchange", "exchange": "XETRA"}
+{"symbol": "APC.DE", "name": "Apple Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "AAPL.NE", "name": "Apple Inc.", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "AAPL.MX", "name": "Apple Inc.", "currency": "MXN", "exchangeFullName": "Mexican Stock Exchange", "exchange": "MEX"}
+{"symbol": "AAPL.DE", "name": "Apple Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "AAPL", "name": "Apple Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "APPLX", "name": "Appleseed Fund", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "APUSD", "name": "AppleSwap AI USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "APRU", "name": "Apple Rush Company, Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "APLE", "name": "Apple Hospitality REIT, Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "2788.T", "name": "Apple International Co., Ltd.", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "APLY.NE", "name": "Apple (AAPL) Yield Shares Purpose ETF", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "603020.SS", "name": "Apple Flavor & Fragrance Group Co.,Ltd.", "currency": "CNY", "exchangeFullName": "Shanghai Stock Exchange", "exchange": "SHH"}
+{"symbol": "PNPL", "name": "Pineapple, Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "PEGY", "name": "Pineapple Energy Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Capital Market", "exchange": "NASDAQ"}
+{"symbol": "PAPL", "name": "Pineapple Financial Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "PNPL.L", "name": "Pineapple Power Corporation plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "MNAO", "name": "Pineapple Express Cannabis Company", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "AAPL.L", "name": "LS 1x Apple Tracker ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AAP1.L", "name": "LS 1x Apple Tracker ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "1AAP.L", "name": "LS 1x Apple Tracker ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "GAPJ", "name": "Golden Apple Oil & Gas Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "AAPX", "name": "T-Rex 2X Long Apple Daily Target ETF", "currency": "USD", "exchangeFullName": "Cboe US", "exchange": "CBOE"}
+{"symbol": "MLP", "name": "Maui Land & Pineapple Company, Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "AAP3.L", "name": "Leverage Shares 3x Apple ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AAPE.L", "name": "Leverage Shares 2x Apple ETC A", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AAP2.L", "name": "Leverage Shares 2x Apple ETC A", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2AAP.L", "name": "Leverage Shares 2x Apple ETC A", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SAPL.L", "name": "Leverage Shares -1x Apple ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SAPE.L", "name": "Leverage Shares -1x Apple ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "APLS.L", "name": "Leverage Shares -1x Apple ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3LAP.L", "name": "GraniteShares 3x Long Apple Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3SAP.L", "name": "GraniteShares 3x Short Apple Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AAPS.L", "name": "Leverage Shares -3x Short Apple (AAPL) ETP Securities", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AAPY", "name": "Kurv Yield Premium Strategy Apple (AAPL) ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "MSFT.NE", "name": "Microsoft Corporation", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "MSFT", "name": "Microsoft Corporation", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "MSF.F", "name": "Microsoft Corporation", "currency": "EUR", "exchangeFullName": "Frankfurt Stock Exchange", "exchange": "XETRA"}
+{"symbol": "MSF.DE", "name": "Microsoft Corporation", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "MSF.BR", "name": "Microsoft Corporation", "currency": "USD", "exchangeFullName": "Euronext Brussels", "exchange": "BRU"}
+{"symbol": "4338.HK", "name": "Microsoft Corporation", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "1MSF.L", "name": "LS 1x Microsoft Tracker ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "MSFT.L", "name": "LS 1x Microsoft Tracker ETP Securities", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "MSF1.L", "name": "LS 1x Microsoft Tracker ETP Securities", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "MSF3.L", "name": "Leverage Shares 3x Microsoft ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3MSF.L", "name": "Leverage Shares 3x Microsoft ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "MSFE.L", "name": "Leverage Shares 2x Microsoft ETC A", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "MSF2.L", "name": "Leverage Shares 2x Microsoft ETC A", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2MSF.L", "name": "Leverage Shares 2x Microsoft ETC A", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SMSF.L", "name": "Leverage Shares -1x Microsoft ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "MSFS.L", "name": "Leverage Shares -1x Microsoft ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3LMS.L", "name": "GraniteShares 3x Long Microsoft Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3SMS.L", "name": "GraniteShares 3x Short Microsoft Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "GOOP", "name": "Kurv Yield Premium Strategy Google (GOOGL) ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "X1USD", "name": "MetaX USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MLTHO.PA", "name": "Metavisio", "currency": "EUR", "exchangeFullName": "Euronext Paris", "exchange": "PAR"}
+{"symbol": "ALTHO.PA", "name": "Metavisio", "currency": "EUR", "exchangeFullName": "Euronext Paris", "exchange": "PAR"}
+{"symbol": "MXYUSD", "name": "Metaxy USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MRUNUSD", "name": "Metarun USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "WEARUSD", "name": "MetaWear USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "WARSUSD", "name": "MetaWars USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MPLXUSD", "name": "Metaplex USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MGODUSD", "name": "MetaGods USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "METAVUSD", "name": "MetaVPad USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "METAUSD", "name": "Metadium USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "METADOGEUSD", "name": "MetaDoge USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MCADEUSD", "name": "Metacade USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "BMFUSD", "name": "MetaFame USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MTVA", "name": "MetaVia Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Market", "exchange": "NASDAQ"}
+{"symbol": "MNRG.L", "name": "MetalNRG plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "PEELUSD", "name": "Meta Apes USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MZUSD", "name": "MetaZilla USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MWUSD", "name": "Metaworld USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MTLUSD", "name": "Metal DAO USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MTKUSD", "name": "Metakings USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MRUSD", "name": "MetaRuffy USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MDBUSD", "name": "MetaDubai USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MTUS", "name": "Metallus Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "MTLZF", "name": "Metall Zug AG", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MTLK", "name": "Metalink Ltd.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "METN.SW", "name": "Metall Zug AG", "currency": "CHF", "exchangeFullName": "Swiss Exchange", "exchange": "SIX"}
+{"symbol": "2605.HK", "name": "MetaLight Inc", "currency": "HKD", "exchangeFullName": "HKSE", "exchange": "HKSE"}
+{"symbol": "0QLX.L", "name": "Metall Zug AG", "currency": "CHF", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "MTVTUSD", "name": "Metaverser USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MSUUSD", "name": "MetaSoccer USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "METTUSD", "name": "MetaThings USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "METAXUSD", "name": "MetaverseX USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MAGEUSD", "name": "MetaBrands USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "FABRICUSD", "name": "MetaFabric USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MTST", "name": "MetaStat, Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MRNJ", "name": "Metatron, Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MLRT", "name": "Metalert, Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MLETA.PA", "name": "Metalliance SA", "currency": "EUR", "exchangeFullName": "Euronext Paris", "exchange": "PAR"}
+{"symbol": "MET1.L", "name": "Metals One PLC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "GTXO", "name": "Metalert, Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "RICUSD", "name": "Meta Ricaro USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MUSD", "name": "MetaVerse-M USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MVCO", "name": "Metavesco, Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MTR.L", "name": "Metal Tiger plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "MTCR", "name": "Metacrine, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Capital Market", "exchange": "NASDAQ"}
+{"symbol": "ALMTA.PA", "name": "Metadvertise SA", "currency": "EUR", "exchangeFullName": "Euronext Paris", "exchange": "PAR"}
+{"symbol": "3350.T", "name": "Metaplanet Inc.", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "MEVRUSD", "name": "Metaverse VR USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MCAPUSD", "name": "Meta Capital USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MLXEF", "name": "Metals X Limited", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MLX.AX", "name": "Metals X Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "ETPUSD", "name": "Metaverse ETP USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "ONE", "name": "Meta Data Limited", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "MTLCF", "name": "MetalCorp Limited", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "AIU", "name": "Meta Data Limited", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "MEFAUSD", "name": "Metaverse Face USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MTC.AX", "name": "MetalsTech Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "MHK.AX", "name": "Metal Hawk Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "MERG.V", "name": "Metal Energy Corp.", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange Ventures", "exchange": "TSXV"}
+{"symbol": "MEEEF", "name": "Metal Energy Corp.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MCT.AX", "name": "Metalicity Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "MBK.AX", "name": "Metal Bank Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "3224.TWO", "name": "MetaTech (AP) Inc.", "currency": "TWD", "exchangeFullName": "Taipei Exchange", "exchange": "TWO"}
+{"symbol": "090370.KS", "name": "Metalabs Co., Ltd.", "currency": "KRW", "exchangeFullName": "Korea Exchange", "exchange": "KSC"}
+{"symbol": "MVXUSD", "name": "Metavault Trade USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MVIUSD", "name": "Metaverse Index USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MTWUSD", "name": "Meta World Game USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MGHUSD", "name": "MetaGameHub DAO USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "METAGAMESUSD", "name": "Meta Games Coin USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MTWTF", "name": "METAWATER Co., Ltd.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MMTLP", "name": "Meta Materials Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MMATQ", "name": "Meta Materials Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MMAT", "name": "Meta Materials Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Capital Market", "exchange": "NASDAQ"}
+{"symbol": "9551.T", "name": "METAWATER Co., Ltd.", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "6112.TW", "name": "Metaage Corporation", "currency": "TWD", "exchangeFullName": "Taiwan Stock Exchange", "exchange": "TAI"}
+{"symbol": "MVRS.NE", "name": "Meta Platforms, Inc.", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "MLS.AX", "name": "Metals Australia Ltd", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "META.NE", "name": "Meta Platforms, Inc.", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "META", "name": "Meta Platforms, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "FB2A.F", "name": "Meta Platforms, Inc.", "currency": "EUR", "exchangeFullName": "Frankfurt Stock Exchange", "exchange": "XETRA"}
+{"symbol": "FB2A.DE", "name": "Meta Platforms, Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "FB", "name": "Meta Platforms, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "6816.TWO", "name": "MetaEdge Corporation", "currency": "TWD", "exchangeFullName": "Taipei Exchange", "exchange": "TWO"}
+{"symbol": "6182.T", "name": "MetaReal Corporation", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "5644.T", "name": "Metalart Corporation", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "MXTLF", "name": "Metalex Ventures Ltd.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MTX.V", "name": "Metalex Ventures Ltd.", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange Ventures", "exchange": "TSXV"}
+{"symbol": "METACEXUSD", "name": "Metaverse Exchange USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "MTL.L", "name": "Metals Exploration plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "MTLI", "name": "Metaline Contact Mines", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MTIG3.SA", "name": "Metalgrafica Iguacu SA", "currency": "BRL", "exchangeFullName": "B3 S.A.", "exchange": "SAO"}
+{"symbol": "MTALF", "name": "Metallica Metals Corp.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MQM.V", "name": "MetalQuest Mining Inc.", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange Ventures", "exchange": "TSXV"}
+{"symbol": "MM.CN", "name": "Metallica Metals Corp.", "currency": "CAD", "exchangeFullName": "Canadian Securities Exchange", "exchange": "CNQ"}
+{"symbol": "MTS.V", "name": "Metallis Resources Inc.", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange Ventures", "exchange": "TSXV"}
+{"symbol": "MTLLF", "name": "Metallum Resources Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MTLFF", "name": "Metallis Resources Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "MTAL-WT", "name": "Metals Acquisition Corp", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "MTAL-UN", "name": "Metals Acquisition Corp", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "AMZN.NE", "name": "Amazon.com, Inc.", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "AMZN", "name": "Amazon.com, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "AMZ.DE", "name": "Amazon.com, Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "0R1O.IL", "name": "Amazon.com, Inc.", "currency": "USD", "exchangeFullName": "International Order Book", "exchange": "IOB"}
+{"symbol": "AZFL", "name": "Amazonas Florestal, Ltd", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "YAMZ.NE", "name": "Amazon (AMZN) Yield Shares Purpose ETF", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "1AMZ.L", "name": "LS 1x Amazon Tracker ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AMZ3.L", "name": "Leverage Shares 3x Amazon ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3AME.L", "name": "Leverage Shares 3x Amazon ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AMZE.L", "name": "Leverage Shares 2x Amazon ETC A", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AMZ2.L", "name": "Leverage Shares 2x Amazon ETC A", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2AMZ.L", "name": "Leverage Shares 2x Amazon ETC A", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SAZE.L", "name": "Leverage Shares -1x Amazon ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SAMZ.L", "name": "Leverage Shares -1x Amazon ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AMZS.L", "name": "Leverage Shares -1x Amazon ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3LZN.L", "name": "GraniteShares 3x Long Amazon Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3SZN.L", "name": "GraniteShares 3x Short Amazon Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AM3S.L", "name": "Leverage Shares -3x Short Amazon (AMZN) ETP Securities", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AMZP", "name": "Kurv Yield Premium Strategy Amazon ETF", "currency": "USD", "exchangeFullName": "Chicago Board Options Exchange", "exchange": "CBOE"}
+{"symbol": "TSLA.NE", "name": "Tesla, Inc.", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "TSLA", "name": "Tesla, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "TL0.DE", "name": "Tesla, Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "TXLZF", "name": "Tesla Exploration Ltd.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "DTSLAUSD", "name": "Tesla Tokenized Stock Defichain USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "YTSL.NE", "name": "Tesla (TSLA) Yield Shares Purpose ETF", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "TSLA.L", "name": "LS 1x Tesla Tracker ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "TSL1.L", "name": "LS 1x Tesla Tracker ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "1TSL.L", "name": "LS 1x Tesla Tracker ETP Securities", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "TSLT", "name": "T-Rex 2X Long Tesla Daily Target ETF", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "TSLZ", "name": "T-Rex 2X Inverse Tesla Daily Target ETF", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "TSL3.L", "name": "Leverage Shares 3x Tesla ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "TSL2.L", "name": "Leverage Shares 2x Tesla ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3TSL.MI", "name": "Leverage Shares 3x Tesla ETP", "currency": "EUR", "exchangeFullName": "Italian Stock Exchange", "exchange": "MIL"}
+{"symbol": "3TSL.L", "name": "Leverage Shares 3x Tesla ETP", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3TSE.L", "name": "Leverage Shares 3x Tesla ETP", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2TSL.L", "name": "Leverage Shares 2x Tesla ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2TSE.L", "name": "Leverage Shares 2x Tesla ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "TSLS.L", "name": "Leverage Shares -1x Tesla ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "STSL.L", "name": "Leverage Shares -1x Tesla ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "STSE.L", "name": "Leverage Shares -1x Tesla ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3LTS.L", "name": "GraniteShares 3x Long Tesla Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3STS.L", "name": "GraniteShares 3x Short Tesla Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "TS3S.F", "name": "Leverage Shares -3x Short Tesla ETC", "currency": "EUR", "exchangeFullName": "Frankfurt Stock Exchange", "exchange": "XETRA"}
+{"symbol": "TS2S.L", "name": "Leverage Shares -2x Short Tesla ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2STS.L", "name": "Leverage Shares -2x Short Tesla ETP", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2STS.AS", "name": "Leverage Shares -2x Short Tesla ETP", "currency": "EUR", "exchangeFullName": "Euronext Amsterdam", "exchange": "AMS"}
+{"symbol": "2STE.L", "name": "Leverage Shares -2x Short Tesla ETP", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "TSLQ.L", "name": "Leverage Shares -3x Short Tesla ETP Securities", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "TS3S.L", "name": "Leverage Shares -3x Short Tesla ETP Securities", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3STL.L", "name": "Leverage Shares -3x Short Tesla ETP Securities", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "TSL", "name": "GraniteShares ETF Trust - GraniteShares 2x Long Tesla Daily ETF", "currency": "USD", "exchangeFullName": "NASDAQ Global Market", "exchange": "NASDAQ"}
+{"symbol": "NFLX.NE", "name": "Netflix, Inc.", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "NFLX", "name": "Netflix, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "NFC.DE", "name": "Netflix, Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "DNFLXUSD", "name": "Netflix Tokenized Stock Defichain USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "1NFL.L", "name": "LS 1x Netflix Tracker ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "NFL3.L", "name": "Leverage Shares 3x Netflix ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3NFL.L", "name": "Leverage Shares 3x Netflix ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3NFE.L", "name": "Leverage Shares 3x Netflix ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3NFE.F", "name": "Leverage Shares 3x Netflix ETC", "currency": "EUR", "exchangeFullName": "Frankfurt Stock Exchange", "exchange": "XETRA"}
+{"symbol": "NFLE.L", "name": "Leverage Shares 2x Netflix ETC A", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2NFL.L", "name": "Leverage Shares 2x Netflix ETC A", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SNFL.L", "name": "Leverage Shares -1x Netflix ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SNFE.L", "name": "Leverage Shares -1x Netflix ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "NFLS.L", "name": "Leverage Shares -1x Netflix ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3LNF.L", "name": "GraniteShares 3x Long Netflix Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3SNF.L", "name": "GraniteShares 3x Short Netflix Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "NFLP", "name": "Kurv Yield Premium Strategy Netflix ETF", "currency": "USD", "exchangeFullName": "Cboe US", "exchange": "CBOE"}
+{"symbol": "CSCO.NE", "name": "Cisco Systems Inc", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "CSCO", "name": "Cisco Systems, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "CIS.DE", "name": "Cisco Systems, Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "CIS.BR", "name": "Cisco Systems, Inc.", "currency": "USD", "exchangeFullName": "Euronext Brussels", "exchange": "BRU"}
+{"symbol": "4333.HK", "name": "Cisco Systems, Inc.", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "FRAZ", "name": "Francisco Industries, Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "BSFO", "name": "Bank of San Francisco", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "INTEQ", "name": "Intelsat S.A.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "INTL.TA", "name": "Intelicanna Ltd", "currency": "ILA", "exchangeFullName": "Tel Aviv Stock Exchange", "exchange": "TLV"}
+{"symbol": "IQNT", "name": "Inteliquent, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "INTC.NE", "name": "Intel Corporation", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "INTC", "name": "Intel Corporation", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "INL.F", "name": "Intel Corporation", "currency": "EUR", "exchangeFullName": "Frankfurt Stock Exchange", "exchange": "XETRA"}
+{"symbol": "INL.DE", "name": "Intel Corporation", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "INCO.BR", "name": "Intel Corporation", "currency": "USD", "exchangeFullName": "Euronext Brussels", "exchange": "BRU"}
+{"symbol": "IHR.AX", "name": "intelliHR Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "4335.HK", "name": "Intel Corporation", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "IDN", "name": "Intellicheck, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Market", "exchange": "NASDAQ"}
+{"symbol": "8940.T", "name": "Intellex Co., Ltd.", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "INLX", "name": "Intellinetics, Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "4847.T", "name": "Intelligent Wave Inc.", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "ICR", "name": "Intelicare Holdings Ltd", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "4971.TWO", "name": "IntelliEPI Inc. (Cayman)", "currency": "TWD", "exchangeFullName": "Taipei Exchange", "exchange": "TWO"}
+{"symbol": "LIVR", "name": "Intelligent Livermore ETF", "currency": "USD", "exchangeFullName": "NASDAQ Global Market", "exchange": "NASDAQ"}
+{"symbol": "INT.ST", "name": "Intellego Technologies AB", "currency": "SEK", "exchangeFullName": "Stockholm Stock Exchange", "exchange": "STO"}
+{"symbol": "INTJ", "name": "Intelligent Group Limited", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "NTLA", "name": "Intellia Therapeutics, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Market", "exchange": "NASDAQ"}
+{"symbol": "ICR.AX", "name": "Intelicare Holdings Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "0JBU.L", "name": "Intellia Therapeutics, Inc.", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "IGX.TO", "name": "IntelGenx Technologies Corp.", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange", "exchange": "TSX"}
+{"symbol": "IGXT", "name": "IntelGenx Technologies Corp.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "189300.KQ", "name": "Intellian Technologies, Inc.", "currency": "KRW", "exchangeFullName": "KOSDAQ", "exchange": "KOE"}
+{"symbol": "KASH.CN", "name": "Intellabridge Technology Corp.", "currency": "CAD", "exchangeFullName": "Canadian Securities Exchange", "exchange": "CNQ"}
+{"symbol": "INTELLECT.NS", "name": "Intellect Design Arena Limited", "currency": "INR", "exchangeFullName": "National Stock Exchange of India", "exchange": "NSE"}
+{"symbol": "INTELLECT.BO", "name": "Intellect Design Arena Limited", "currency": "INR", "exchangeFullName": "Bombay Stock Exchange", "exchange": "BSE"}
+{"symbol": "INBS", "name": "Intelligent Bio Solutions Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Capital Market", "exchange": "NASDAQ"}
+{"symbol": "IUG.L", "name": "Intelligent Ultrasound Group plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SVMB", "name": "Intellegence Parking Group Limited", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "9579.SR", "name": "Intelligent Oud Company for Trading", "currency": "SAR", "exchangeFullName": "Saudi Exchange", "exchange": "SAU"}
+{"symbol": "TPS.AX", "name": "Intelligent Monitoring Group Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "INTELLCAP.BO", "name": "Intellivate Capital Ventures Limited", "currency": "INR", "exchangeFullName": "Bombay Stock Exchange", "exchange": "BSE"}
+{"symbol": "IMB.AX", "name": "Intelligent Monitoring Group Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "6819.HK", "name": "IntelliCentrics Global Holdings Ltd.", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "IQMDW", "name": "Intelligent Medicine Acquisition Corp.", "currency": "USD", "exchangeFullName": "NASDAQ Global Market", "exchange": "NASDAQ"}
+{"symbol": "IQMDU", "name": "Intelligent Medicine Acquisition Corp.", "currency": "USD", "exchangeFullName": "NASDAQ Global Market", "exchange": "NASDAQ"}
+{"symbol": "IQMD", "name": "Intelligent Medicine Acquisition Corp.", "currency": "USD", "exchangeFullName": "NASDAQ Global Market", "exchange": "NASDAQ"}
+{"symbol": "INES.AX", "name": "Intelligent Investor Ethical Share ETF", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "IPM", "name": "Intelligent Protection Management Corp.", "currency": "USD", "exchangeFullName": "NASDAQ Global Market", "exchange": "NASDAQ"}
+{"symbol": "IPCI.TO", "name": "Intellipharmaceutics International Inc.", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange", "exchange": "TSX"}
+{"symbol": "IPCIF", "name": "Intellipharmaceutics International Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "ILAG", "name": "Intelligent Living Application Group Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Capital Market", "exchange": "NASDAQ"}
+{"symbol": "INIF.AX", "name": "Intelligent Investor Australian Equity Income ETF", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "INTB3.SA", "name": "Intelbras S.A. - Ind\u00fastria de Telecomunica\u00e7\u00e3o Eletr\u00f4nica Brasileira", "currency": "BRL", "exchangeFullName": "B3 S.A.", "exchange": "SAO"}
+{"symbol": "FNTL.L", "name": "Fintel Plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "XINT.ST", "name": "Xintela AB (publ)", "currency": "SEK", "exchangeFullName": "Stockholm Stock Exchange", "exchange": "STO"}
+{"symbol": "MAI.L", "name": "Maintel Holdings Plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2408.T", "name": "KG Intelligence CO., LTD.", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "300883.SZ", "name": "LD Intelligent Technology Co., Ltd", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "002015.SZ", "name": "GCL Intelligent Energy Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "CCCS", "name": "CCC Intelligent Solutions Holdings Inc.", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "0606.HK", "name": "SCE Intelligent Commercial Management Holdings Limited", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "NIR", "name": "Near Intelligence, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Market", "exchange": "NASDAQ"}
+{"symbol": "2308.HK", "name": "EVOC Intelligent Technology Company Limited", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "5856.T", "name": "Life Intelligent Enterprise Holdings Co.,Ltd.", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "QUICKIUSD", "name": "Quick Intel USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "WTLLF", "name": "Water Intelligence plc", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "WATR.L", "name": "Water Intelligence plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "600602.SS", "name": "INESA Intelligent Tech Inc.", "currency": "CNY", "exchangeFullName": "Shanghai Stock Exchange", "exchange": "SHH"}
+{"symbol": "QIP.AX", "name": "QANTM Intellectual Property Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "9799.T", "name": "Asahi Intelligence Service Co., Ltd.", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "603203.SS", "name": "Quick Intelligent Equipment Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shanghai Stock Exchange", "exchange": "SHH"}
+{"symbol": "300802.SZ", "name": "Jutze Intelligence Technology Co.,Ltd", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "AILV", "name": "Alpha Intelligent - Large Cap Value ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "AILG", "name": "Alpha Intelligent - Large Cap Growth ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "BLISS.BK", "name": "Bliss Intelligence Public Company Limited", "currency": "THB", "exchangeFullName": "Stock Exchange of Thailand", "exchange": "SET"}
+{"symbol": "8379.HK", "name": "Prime Intelligence Solutions Group Limited", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "AXINU", "name": "Axiom Intelligence Acquisition Corp 1 Units", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "ZK", "name": "ZEEKR Intelligent Technology Holding Limited", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "IICN", "name": "China Intelligence Information Systems, Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "003025.SZ", "name": "Sijin Intelligent Forming Machinery Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "1645.HK", "name": "Haina Intelligent Equipment International Holdings Limited", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "ACC.L", "name": "Access Intelligence Plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "CI1.AX", "name": "Credit Intelligence Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "600545.SS", "name": "Saurer Intelligent Technology Co.,Ltd.", "currency": "CNY", "exchangeFullName": "Shanghai Stock Exchange", "exchange": "SHH"}
+{"symbol": "300423.SZ", "name": "Sunfly Intelligent Technology Co., LTD", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "301603.SZ", "name": "JIRFINE INTELLIGEN", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "MVAI.V", "name": "Minerva Intelligence Inc.", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange Ventures", "exchange": "TSXV"}
+{"symbol": "MVAIF", "name": "Minerva Intelligence Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "002031.SZ", "name": "Greatoo Intelligent Equipment Inc.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "002097.SZ", "name": "Sunward Intelligent Equipment Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "300793.SZ", "name": "Cosonic Intelligent Technologies Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "300276.SZ", "name": "SanFeng Intelligent Equipment Group Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "0550.HK", "name": "Kingkey Intelligence Culture Holdings Limited", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "002355.SZ", "name": "Xingmin Intelligent Transportation Systems (Group) Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "MMITUSD", "name": "MangoMan Intelligent USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "AIC.CN", "name": "AlphaGen Intelligence Corp.", "currency": "CAD", "exchangeFullName": "Canadian Securities Exchange", "exchange": "CNQ"}
+{"symbol": "1401.HK", "name": "Sprocomm Intelligence Limited", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "IQM", "name": "Franklin Intelligent Machines ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "300282.SZ", "name": "Sansheng Intellectual Education Technology CO.,LTD.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "300166.SZ", "name": "Business-intelligence of Oriental Nations Corporation Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "603611.SS", "name": "Noblelift Intelligent Equipment Co.,Ltd.", "currency": "CNY", "exchangeFullName": "Shanghai Stock Exchange", "exchange": "SHH"}
+{"symbol": "300450.SZ", "name": "Wuxi Lead Intelligent Equipment CO.,LTD.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "688557.SS", "name": "BlueSword Intelligent Technology Co.,Ltd.", "currency": "CNY", "exchangeFullName": "Shanghai Stock Exchange", "exchange": "SHH"}
+{"symbol": "1204.HK", "name": "BoardWare Intelligence Technology Limited", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "300058.SZ", "name": "BlueFocus Intelligent Communications Group Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "CTRL.V", "name": "Edge Total Intelligence Inc.", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange Ventures", "exchange": "TSXV"}
+{"symbol": "1967.HK", "name": "Confidence Intelligence Holdings Limited", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "ORCP.L", "name": "Oracle Power plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "ORCL.SW", "name": "Oracle Corporation", "currency": "USD", "exchangeFullName": "Swiss Exchange", "exchange": "SIX"}
+{"symbol": "ORCL", "name": "Oracle Corporation", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "ORC.DE", "name": "Oracle Corporation", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "OECPF", "name": "Oracle Energy Corp.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "OCLCF", "name": "Oracle Corporation Japan", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "4716.T", "name": "Oracle Corporation Japan", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "ORLCF", "name": "Oracle Commodity Holding Corp.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "OHAQ", "name": "Oracle Healthcare Acquisition Corp.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "OFSS.NS", "name": "Oracle Financial Services Software Limited", "currency": "INR", "exchangeFullName": "National Stock Exchange of India", "exchange": "NSE"}
+{"symbol": "OFSS.BO", "name": "Oracle Financial Services Software Limited", "currency": "INR", "exchangeFullName": "Bombay Stock Exchange", "exchange": "BSE"}
+{"symbol": "GORAUSD", "name": "Goracle USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "ZORAUSD", "name": "Zoracles USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "BRGUSD", "name": "Bridge Oracle USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "NVD.F", "name": "NVIDIA Corporation", "currency": "EUR", "exchangeFullName": "Frankfurt Stock Exchange", "exchange": "XETRA"}
+{"symbol": "NVD.DE", "name": "NVIDIA Corporation", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "NVDA.NE", "name": "NVIDIA Corporation", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "NVDA", "name": "NVIDIA Corporation", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "YNVD.NE", "name": "NVIDIA (NVDA) Yield Shares Purpose ETF", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "NVHE.TO", "name": "Harvest NVIDIA Enhanced High Income Shares ETF - Class A Units", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange", "exchange": "TSX"}
+{"symbol": "NVDX", "name": "T-Rex 2X Long NVIDIA Daily Target ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NVDQ", "name": "T-Rex 2X Inverse NVIDIA Daily Target ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NVD3.L", "name": "Leverage Shares 3x NVIDIA ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3NVD.L", "name": "Leverage Shares 3x NVIDIA ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "NVDE.L", "name": "Leverage Shares 2x NVIDIA ETC A", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "NVD2.L", "name": "Leverage Shares 2x NVIDIA ETC A", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2NVD.L", "name": "Leverage Shares 2x NVIDIA ETC A", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SNVD.L", "name": "Leverage Shares -1x NVIDIA ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "NVDS.L", "name": "Leverage Shares -1x NVIDIA ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3LNV.L", "name": "GraniteShares 3x Long NVIDIA Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3SNV.L", "name": "GraniteShares 3x Short NVIDIA Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SHOP.TO", "name": "Shopify Inc.", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange", "exchange": "TSX"}
+{"symbol": "SHOP", "name": "Shopify Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "307.F", "name": "Shopify Inc.", "currency": "EUR", "exchangeFullName": "Frankfurt Stock Exchange", "exchange": "XETRA"}
+{"symbol": "0VHA.L", "name": "Shopify Inc.", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SHO3.L", "name": "Leverage Shares 3x Shopify ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3SHP.L", "name": "Leverage Shares 3x Shopify ETP", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3SHE.L", "name": "Leverage Shares 3x Shopify ETP", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SSHE.L", "name": "Leverage Shares -1x Short Shopify ETP", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SHOS.L", "name": "Leverage Shares -1x Short Shopify ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "ZOOMERUSD", "name": "ZOOMER USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "ZOOMUSD", "name": "ZoomSwap USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "6694.T", "name": "Zoom Corporation", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "ZOOM.ST", "name": "Zoomability Int AB", "currency": "SEK", "exchangeFullName": "Stockholm Stock Exchange", "exchange": "STO"}
+{"symbol": "ZUM.V", "name": "ZoomerMedia Limited", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange Ventures", "exchange": "TSXV"}
+{"symbol": "ZUMRF", "name": "ZoomerMedia Limited", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "ZCARW", "name": "Zoomcar Holdings, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "ZCAR", "name": "Zoomcar Holdings, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "ZTNO", "name": "ZOOM Technologies, Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "ZPAS", "name": "Zoompass Holdings, Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "ZOMD.V", "name": "Zoomd Technologies Ltd.", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange Ventures", "exchange": "TSXV"}
+{"symbol": "ZMDTF", "name": "Zoomd Technologies Ltd.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "ZMWYF", "name": "ZoomAway Technologies Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "ZI", "name": "ZoomInfo Technologies Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "GTM", "name": "ZoomInfo Technologies Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "Z2U.AX", "name": "Zoom2u Technologies Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
+{"symbol": "ZM", "name": "Zoom Video Communications, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "5ZM.F", "name": "Zoom Video Communications, Inc.", "currency": "EUR", "exchangeFullName": "Frankfurt Stock Exchange", "exchange": "XETRA"}
+{"symbol": "0A1O.L", "name": "Zoom Video Communications, Inc.", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "ZLIOY", "name": "Zoomlion Heavy Industry Science and Technology Co., Ltd.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "ZLIOF", "name": "Zoomlion Heavy Industry Science and Technology Co., Ltd.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
+{"symbol": "1157.HK", "name": "Zoomlion Heavy Industry Science and Technology Co., Ltd.", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
+{"symbol": "000157.SZ", "name": "Zoomlion Heavy Industry Science and Technology Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "3496.T", "name": "Azoom Co.,Ltd", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
+{"symbol": "IZM", "name": "ICZOOM Group Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Capital Market", "exchange": "NASDAQ"}
+{"symbol": "LZ", "name": "LegalZoom.com, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "ZM3.L", "name": "Leverage Shares 3x Zoom ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3ZME.L", "name": "Leverage Shares 3x Zoom ETP", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2LZM.MI", "name": "GraniteShares 2x Long Zoom Daily ETP", "currency": "EUR", "exchangeFullName": "Italian Stock Exchange", "exchange": "MIL"}
+{"symbol": "2SZM.MI", "name": "GraniteShares 2x Short Zoom Daily ETP", "currency": "EUR", "exchangeFullName": "Italian Stock Exchange", "exchange": "MIL"}
+{"symbol": "ZMS.L", "name": "Leverage Shares -1x Short Zoom ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SZM.L", "name": "Leverage Shares -1x Short Zoom ETP", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SZME.L", "name": "Leverage Shares -1x Short Zoom ETP", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "UT8.DE", "name": "Uber Technologies, Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "UBER.SW", "name": "Uber Technologies, Inc.", "currency": "CHF", "exchangeFullName": "Swiss Exchange", "exchange": "SIX"}
+{"symbol": "UBER", "name": "Uber Technologies, Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "HUBN.SW", "name": "Huber+Suhner AG", "currency": "CHF", "exchangeFullName": "Swiss Exchange", "exchange": "SIX"}
+{"symbol": "0QNH.L", "name": "Huber+Suhner AG", "currency": "CHF", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "KBRA.V", "name": "Kubera Gold Corp", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange Ventures", "exchange": "TSXV"}
+{"symbol": "KUBERJI.BO", "name": "Kuber Udyog Limited", "currency": "INR", "exchangeFullName": "Bombay Stock Exchange", "exchange": "BSE"}
+{"symbol": "HULEX", "name": "Huber Select Large Cap Value Fund Institutional Class", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NBJP", "name": "Neuberger Berman ETF Trust", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NBFCX", "name": "Neuberger Berman Focus Trust", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NBDS", "name": "Neuberger Berman Disrupters ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NBCR", "name": "Neuberger Berman Core Equity ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NRREX", "name": "Neuberger Berman Real Estate Fund", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NREAX", "name": "Neuberger Berman Real Estate Fund", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NLSIX", "name": "Neuberger Berman Long Short Instl", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NBSM", "name": "Neuberger Berman Small-Mid Cap ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NBOS", "name": "Neuberger Berman Option Strategy ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NBH", "name": "Neuberger Berman Municipal Fund Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "NGUAX", "name": "Neuberger Berman Large Cap Growth Inv", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NRSIX", "name": "Neuberger Berman Strategic Income Fund", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NBCM", "name": "Neuberger Berman Commodity Strategy ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NBSRX", "name": "Neuberger Berman Sustainable Equity Fund", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NBPTX", "name": "Neuberger Berman Large Cap Value Fd Trust", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NBGEX", "name": "Neuberger Berman Genesis Fund Trust Class", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NBSD", "name": "Neuberger Berman Short Duration Income ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NBFC", "name": "Neuberger Berman Flexible Credit Income ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NBGNX", "name": "Neuberger Berman Genesis Fund Investor Class", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NBRFX", "name": "Neuberger Berman Real Estate Fund Trust Class", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NBCE", "name": "Neuberger Berman ETF Trust - China Equity ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NBO", "name": "Neuberger Berman New York Municipal Fund, Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "NBW", "name": "Neuberger Berman California Municipal Fund Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NSBTX", "name": "Neuberger Berman Short Duration Bond Trust Class", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NML", "name": "Neuberger Berman MLP and Energy Income Fund Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NHS", "name": "Neuberger Berman High Yield Strategies Fund Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NBGIX", "name": "Neuberger Berman Genesis Fund Institutional Class", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NBREX", "name": "Neuberger Berman Mid Cap Instrinsic Value Fd Trust", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "NBGR", "name": "Neuberger Berman ETF Trust - Global Real Estate ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NBXG", "name": "Neuberger Berman Next Generation Connectivity Fund Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "NBET", "name": "Neuberger Berman Energy Transition & Infrastructure ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "NBCT", "name": "Neuberger Berman Carbon Transition & Infrastructure ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NBCC", "name": "Neuberger Berman Next Generation Connected Consumer ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "NRO", "name": "Neuberger Berman Real Estate Securities Income Fund Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "NSTLX", "name": "Neuberger Berman Strategic Income Fund Institutional Class", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "PRPC-WT", "name": "CC Neuberger Principal Holdings", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "PRPB-UN", "name": "CC Neuberger Principal Holdings II", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "PRPB", "name": "CC Neuberger Principal Holdings II", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "PRPC-UN", "name": "CC Neuberger Principal Holdings III", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "PRPC", "name": "CC Neuberger Principal Holdings III", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "RANA.OL", "name": "Rana Gruber ASA", "currency": "NOK", "exchangeFullName": "Oslo Stock Exchange", "exchange": "OSL"}
+{"symbol": "PTDU.JK", "name": "PT Djasa Ubersakti Tbk", "currency": "IDR", "exchangeFullName": "Jakarta Stock Exchange", "exchange": "JKT"}
+{"symbol": "ZIPP", "name": "STKd 100% UBER & 100% TSLA ETF", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "UBR3.L", "name": "Leverage Shares 3x UBER ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "UBR2.L", "name": "Leverage Shares 2x Uber ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3UBR.MI", "name": "Leverage Shares 3x UBER ETP", "currency": "EUR", "exchangeFullName": "Italian Stock Exchange", "exchange": "MIL"}
+{"symbol": "3UBR.L", "name": "Leverage Shares 3x UBER ETP", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2UBR.L", "name": "Leverage Shares 2x Uber ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3UBE.L", "name": "Leverage Shares 3x Uber ETP Securities", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "UBRS.L", "name": "Leverage Shares -1x Uber ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SUBR.L", "name": "Leverage Shares -1x Uber ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "UBRL", "name": "GraniteShares 2x Long UBER Daily ETF", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "3LUB.PA", "name": "GraniteShares 3x Long Uber Daily ETP", "currency": "EUR", "exchangeFullName": "Euronext Paris", "exchange": "PAR"}
+{"symbol": "3LUB.L", "name": "GraniteShares 3x Long Uber Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3SUB.L", "name": "GraniteShares 3x Short Uber Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2223.SR", "name": "Saudi Aramco Base Oil Company - Luberef", "currency": "SAR", "exchangeFullName": "Saudi Exchange", "exchange": "SAU"}
+{"symbol": "TWR.DE", "name": "Twitter, Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "TWTR", "name": "Twitter, Inc. (delisted)", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "TWT3.L", "name": "Leverage Shares 3x Twitter ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "TWT2.L", "name": "Leverage Shares 2x Twitter ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3TWT.L", "name": "Leverage Shares 3x Twitter ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2TWT.L", "name": "Leverage Shares 2x Twitter ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "2TWE.L", "name": "Leverage Shares 2x Twitter ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "TWTS.L", "name": "Leverage Shares -1x Twitter ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "STWT.L", "name": "Leverage Shares -1x Twitter ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "STWE.L", "name": "Leverage Shares -1x Twitter ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "PYUSD", "name": "PayPal USD USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "PYPL.NE", "name": "PayPal Holdings, Inc.", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "PYPL", "name": "PayPal Holdings, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "2PP.F", "name": "PayPal Holdings, Inc.", "currency": "EUR", "exchangeFullName": "Frankfurt Stock Exchange", "exchange": "XETRA"}
+{"symbol": "2PP.DE", "name": "PayPal Holdings, Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "PYP3.L", "name": "Leverage Shares 3x PayPal ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3PYP.L", "name": "Leverage Shares 3x PayPal ETP", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3PYE.L", "name": "Leverage Shares 3x PayPal ETP Securities", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3SPP.MI", "name": "GraniteShares 3x Short PayPal Daily ETP", "currency": "EUR", "exchangeFullName": "Italian Stock Exchange", "exchange": "MIL"}
+{"symbol": "SPYP.L", "name": "Leverage Shares -1x Short PayPal ETP Securities", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SPYE.L", "name": "Leverage Shares -1x Short PayPal ETP Securities", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "PYPS.L", "name": "Leverage Shares -1x Short PayPal ETP Securities", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "ADBE.SW", "name": "Adobe Inc.", "currency": "CHF", "exchangeFullName": "Swiss Exchange", "exchange": "SIX"}
+{"symbol": "ADBE", "name": "Adobe Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "ADB.DE", "name": "Adobe Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "0R2Y.L", "name": "Adobe Inc.", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AMDUSD", "name": "AMD/USD", "currency": "USD", "exchangeFullName": "FOREX", "exchange": "FOREX"}
+{"symbol": "AMDGBP", "name": "AMD/GBP", "currency": "GBP", "exchangeFullName": "FOREX", "exchange": "FOREX"}
+{"symbol": "AMDEUR", "name": "AMD/EUR", "currency": "EUR", "exchangeFullName": "FOREX", "exchange": "FOREX"}
+{"symbol": "AMDGUSD", "name": "AMDG Token USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "DOX", "name": "Amdocs Limited", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "AMDIND.NS", "name": "AMD Industries Limited", "currency": "INR", "exchangeFullName": "National Stock Exchange of India", "exchange": "NSE"}
+{"symbol": "AMDIND.BO", "name": "AMD Industries Limited", "currency": "INR", "exchangeFullName": "Bombay Stock Exchange", "exchange": "BSE"}
+{"symbol": "TAUUSD", "name": "Lamden USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
+{"symbol": "KAMDHENU.NS", "name": "Kamdhenu Limited", "currency": "INR", "exchangeFullName": "National Stock Exchange of India", "exchange": "NSE"}
+{"symbol": "KAMDHENU.BO", "name": "Kamdhenu Limited", "currency": "INR", "exchangeFullName": "Bombay Stock Exchange", "exchange": "BSE"}
+{"symbol": "CPT", "name": "Camden Property Trust", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "LAMDA.AT", "name": "LAMDA Development S.A.", "currency": "EUR", "exchangeFullName": "Athens Stock Exchange", "exchange": "ATH"}
+{"symbol": "KAMOPAINTS.NS", "name": "Kamdhenu Ventures Limited", "currency": "INR", "exchangeFullName": "National Stock Exchange of India", "exchange": "NSE"}
+{"symbol": "KAMOPAINTS.BO", "name": "Kamdhenu Ventures Limited", "currency": "INR", "exchangeFullName": "Bombay Stock Exchange", "exchange": "BSE"}
+{"symbol": "CAC", "name": "Camden National Corporation", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "USDAMD", "name": "USD/AMD", "currency": "AMD", "exchangeFullName": "FOREX", "exchange": "FOREX"}
+{"symbol": "GBPAMD", "name": "GBP/AMD", "currency": "AMD", "exchangeFullName": "FOREX", "exchange": "FOREX"}
+{"symbol": "EURAMD", "name": "EUR/AMD", "currency": "AMD", "exchangeFullName": "FOREX", "exchange": "FOREX"}
+{"symbol": "TOPS.TA", "name": "Top Ramdor Systems & Computers Co. (1990) Ltd", "currency": "ILA", "exchangeFullName": "Tel Aviv Stock Exchange", "exchange": "TLV"}
+{"symbol": "AMDY", "name": "YieldMax AMD Option Income Strategy ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
+{"symbol": "AMUU", "name": "Direxion Daily AMD Bull 2X Shares", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "AMDD", "name": "Direxion Daily AMD Bear 1X Shares", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "AMD3.L", "name": "Leverage Shares 3x AMD ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3AMD.MI", "name": "Leverage Shares 3x AMD ETC", "currency": "EUR", "exchangeFullName": "Italian Stock Exchange", "exchange": "MIL"}
+{"symbol": "3AMD.L", "name": "Leverage Shares 3x AMD ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3ADE.L", "name": "Leverage Shares 3x AMD ETP Securities", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "LAYS", "name": "STKd 100% NVDA & 100% AMD ETF", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
+{"symbol": "3LAM.PA", "name": "GraniteShares 3x Long AMD Daily", "currency": "EUR", "exchangeFullName": "Euronext Paris", "exchange": "PAR"}
+{"symbol": "AMDL", "name": "GraniteShares 2x Long AMD Daily ETF", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "3SAM.PA", "name": "GraniteShares 3x Short AMD Dail", "currency": "EUR", "exchangeFullName": "Euronext Paris", "exchange": "PAR"}
+{"symbol": "AMDS", "name": "GraniteShares 1x Short AMD Daily ETF", "currency": "USD", "exchangeFullName": "NASDAQ Global Market", "exchange": "NASDAQ"}
+{"symbol": "AMDG", "name": "Themes ETF Trust - Leverage Shares 2X Long AMD Daily ETF", "currency": "USD", "exchangeFullName": "NASDAQ", "exchange": "NASDAQ"}
+{"symbol": "FOO.F", "name": "Salesforce, Inc.", "currency": "EUR", "exchangeFullName": "Frankfurt Stock Exchange", "exchange": "XETRA"}
+{"symbol": "FOO.DE", "name": "Salesforce, Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
+{"symbol": "CRM.NE", "name": "Salesforce, Inc.", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
+{"symbol": "CRM.BA", "name": "Salesforce, Inc.", "currency": "ARS", "exchangeFullName": "Buenos Aires Stock Exchange", "exchange": "BUE"}
+{"symbol": "CRM", "name": "Salesforce, Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
+{"symbol": "CRM3.L", "name": "Leverage Shares 3x Salesforce.Com ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3CRE.L", "name": "Leverage Shares 3x Salesforce.Com ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "CRM2.L", "name": "Leverage Shares 2x Salesforce.com ETC A", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SCRM.L", "name": "Leverage Shares -1x Salesforce.Com ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "SCRE.L", "name": "Leverage Shares -1x Salesforce.Com ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "CRMS.L", "name": "Leverage Shares -1x Salesforce.Com ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
