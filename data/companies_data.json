@@ -20,7 +20,7 @@
 {"symbol": "AAP1.L", "name": "LS 1x Apple Tracker ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "1AAP.L", "name": "LS 1x Apple Tracker ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "GAPJ", "name": "Golden Apple Oil & Gas Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
-{"symbol": "AAPX", "name": "T-Rex 2X Long Apple Daily Target ETF", "currency": "USD", "exchangeFullName": "Cboe US", "exchange": "CBOE"}
+{"symbol": "AAPX", "name": "T-Rex 2X Long Apple Daily Target ETF", "currency": "USD", "exchangeFullName": "Chicago Board Options Exchange", "exchange": "CBOE"}
 {"symbol": "MLP", "name": "Maui Land & Pineapple Company, Inc.", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
 {"symbol": "AAP3.L", "name": "Leverage Shares 3x Apple ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "AAPE.L", "name": "Leverage Shares 2x Apple ETC A", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
@@ -219,7 +219,7 @@
 {"symbol": "NFLS.L", "name": "Leverage Shares -1x Netflix ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "3LNF.L", "name": "GraniteShares 3x Long Netflix Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "3SNF.L", "name": "GraniteShares 3x Short Netflix Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
-{"symbol": "NFLP", "name": "Kurv Yield Premium Strategy Netflix ETF", "currency": "USD", "exchangeFullName": "Cboe US", "exchange": "CBOE"}
+{"symbol": "NFLP", "name": "Kurv Yield Premium Strategy Netflix ETF", "currency": "USD", "exchangeFullName": "Chicago Board Options Exchange", "exchange": "CBOE"}
 {"symbol": "CSCO.NE", "name": "Cisco Systems Inc", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
 {"symbol": "CSCO", "name": "Cisco Systems, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
 {"symbol": "CIS.DE", "name": "Cisco Systems, Inc.", "currency": "EUR", "exchangeFullName": "Deutsche B\u00f6rse", "exchange": "XETRA"}
