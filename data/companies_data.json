@@ -51,6 +51,7 @@
 {"symbol": "MSFS.L", "name": "Leverage Shares -1x Microsoft ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "3LMS.L", "name": "GraniteShares 3x Long Microsoft Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "3SMS.L", "name": "GraniteShares 3x Short Microsoft Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "GOO1.L", "name": "Leverage Shares 1x Google ETP", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "GOOP", "name": "Kurv Yield Premium Strategy Google (GOOGL) ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
 {"symbol": "X1USD", "name": "MetaX USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
 {"symbol": "MLTHO.PA", "name": "Metavisio", "currency": "EUR", "exchangeFullName": "Euronext Paris", "exchange": "PAR"}
@@ -79,7 +80,7 @@
 {"symbol": "MTLZF", "name": "Metall Zug AG", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
 {"symbol": "MTLK", "name": "Metalink Ltd.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
 {"symbol": "METN.SW", "name": "Metall Zug AG", "currency": "CHF", "exchangeFullName": "Swiss Exchange", "exchange": "SIX"}
-{"symbol": "2605.HK", "name": "MetaLight Inc", "currency": "HKD", "exchangeFullName": "HKSE", "exchange": "HKSE"}
+{"symbol": "2605.HK", "name": "MetaLight Inc", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
 {"symbol": "0QLX.L", "name": "Metall Zug AG", "currency": "CHF", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "MTVTUSD", "name": "Metaverser USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
 {"symbol": "MSUUSD", "name": "MetaSoccer USD", "currency": "USD", "exchangeFullName": "CCC", "exchange": "CRYPTO"}
@@ -159,7 +160,9 @@
 {"symbol": "AZFL", "name": "Amazonas Florestal, Ltd", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
 {"symbol": "YAMZ.NE", "name": "Amazon (AMZN) Yield Shares Purpose ETF", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
 {"symbol": "1AMZ.L", "name": "LS 1x Amazon Tracker ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AMZN.L", "name": "Leverage Shares 1x Amazon ETP", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "AMZ3.L", "name": "Leverage Shares 3x Amazon ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "AMZ1.L", "name": "Leverage Shares 1x Amazon ETP", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "3AME.L", "name": "Leverage Shares 3x Amazon ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "AMZE.L", "name": "Leverage Shares 2x Amazon ETC A", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "AMZ2.L", "name": "Leverage Shares 2x Amazon ETC A", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
@@ -194,6 +197,8 @@
 {"symbol": "STSE.L", "name": "Leverage Shares -1x Tesla ETC", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "3LTS.L", "name": "GraniteShares 3x Long Tesla Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "3STS.L", "name": "GraniteShares 3x Short Tesla Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "3HSB.L", "name": "Leverage Shares 3x Short Tesla ETP", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "1SHO.L", "name": "Leverage Shares 3x Short Tesla ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "TS3S.F", "name": "Leverage Shares -3x Short Tesla ETC", "currency": "EUR", "exchangeFullName": "Frankfurt Stock Exchange", "exchange": "XETRA"}
 {"symbol": "TS2S.L", "name": "Leverage Shares -2x Short Tesla ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "2STS.L", "name": "Leverage Shares -2x Short Tesla ETP", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
@@ -219,6 +224,7 @@
 {"symbol": "NFLS.L", "name": "Leverage Shares -1x Netflix ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "3LNF.L", "name": "GraniteShares 3x Long Netflix Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "3SNF.L", "name": "GraniteShares 3x Short Netflix Daily ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "NFLX.L", "name": "Leverage Shares +3x Long Netflix", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "NFLP", "name": "Kurv Yield Premium Strategy Netflix ETF", "currency": "USD", "exchangeFullName": "Chicago Board Options Exchange", "exchange": "CBOE"}
 {"symbol": "CSCO.NE", "name": "Cisco Systems Inc", "currency": "CAD", "exchangeFullName": "CBOE CA", "exchange": "NEO"}
 {"symbol": "CSCO", "name": "Cisco Systems, Inc.", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
@@ -276,6 +282,7 @@
 {"symbol": "FNTL.L", "name": "Fintel Plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "XINT.ST", "name": "Xintela AB (publ)", "currency": "SEK", "exchangeFullName": "Stockholm Stock Exchange", "exchange": "STO"}
 {"symbol": "MAI.L", "name": "Maintel Holdings Plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "COMINT.ST", "name": "Comintelli AB", "currency": "SEK", "exchangeFullName": "Stockholm Stock Exchange", "exchange": "STO"}
 {"symbol": "2408.T", "name": "KG Intelligence CO., LTD.", "currency": "JPY", "exchangeFullName": "Tokyo Stock Exchange", "exchange": "JPX"}
 {"symbol": "300883.SZ", "name": "LD Intelligent Technology Co., Ltd", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
 {"symbol": "002015.SZ", "name": "GCL Intelligent Energy Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
@@ -305,10 +312,10 @@
 {"symbol": "CI1.AX", "name": "Credit Intelligence Limited", "currency": "AUD", "exchangeFullName": "Australian Securities Exchange", "exchange": "ASX"}
 {"symbol": "600545.SS", "name": "Saurer Intelligent Technology Co.,Ltd.", "currency": "CNY", "exchangeFullName": "Shanghai Stock Exchange", "exchange": "SHH"}
 {"symbol": "300423.SZ", "name": "Sunfly Intelligent Technology Co., LTD", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
-{"symbol": "301603.SZ", "name": "JIRFINE INTELLIGEN", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
 {"symbol": "MVAI.V", "name": "Minerva Intelligence Inc.", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange Ventures", "exchange": "TSXV"}
 {"symbol": "MVAIF", "name": "Minerva Intelligence Inc.", "currency": "USD", "exchangeFullName": "Other OTC", "exchange": "OTC"}
 {"symbol": "002031.SZ", "name": "Greatoo Intelligent Equipment Inc.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
+{"symbol": "301603.SZ", "name": "Jirfine Intelligent Equipment Co Ltd", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
 {"symbol": "002097.SZ", "name": "Sunward Intelligent Equipment Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
 {"symbol": "300793.SZ", "name": "Cosonic Intelligent Technologies Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
 {"symbol": "300276.SZ", "name": "SanFeng Intelligent Equipment Group Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
@@ -326,7 +333,6 @@
 {"symbol": "1204.HK", "name": "BoardWare Intelligence Technology Limited", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
 {"symbol": "300058.SZ", "name": "BlueFocus Intelligent Communications Group Co., Ltd.", "currency": "CNY", "exchangeFullName": "Shenzhen Stock Exchange", "exchange": "SHZ"}
 {"symbol": "CTRL.V", "name": "Edge Total Intelligence Inc.", "currency": "CAD", "exchangeFullName": "Toronto Stock Exchange Ventures", "exchange": "TSXV"}
-{"symbol": "1967.HK", "name": "Confidence Intelligence Holdings Limited", "currency": "HKD", "exchangeFullName": "Hong Kong Stock Exchange", "exchange": "HKSE"}
 {"symbol": "ORCP.L", "name": "Oracle Power plc", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "ORCL.SW", "name": "Oracle Corporation", "currency": "USD", "exchangeFullName": "Swiss Exchange", "exchange": "SIX"}
 {"symbol": "ORCL", "name": "Oracle Corporation", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
@@ -350,6 +356,7 @@
 {"symbol": "NVDX", "name": "T-Rex 2X Long NVIDIA Daily Target ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
 {"symbol": "NVDQ", "name": "T-Rex 2X Inverse NVIDIA Daily Target ETF", "currency": "USD", "exchangeFullName": "New York Stock Exchange Arca", "exchange": "AMEX"}
 {"symbol": "NVD3.L", "name": "Leverage Shares 3x NVIDIA ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
+{"symbol": "CRME.L", "name": "Leverage Shares 3x Nvidia ETP", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "3NVD.L", "name": "Leverage Shares 3x NVIDIA ETC", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "NVDE.L", "name": "Leverage Shares 2x NVIDIA ETC A", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "NVD2.L", "name": "Leverage Shares 2x NVIDIA ETC A", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
@@ -449,7 +456,7 @@
 {"symbol": "PRPC-UN", "name": "CC Neuberger Principal Holdings III", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
 {"symbol": "PRPC", "name": "CC Neuberger Principal Holdings III", "currency": "USD", "exchangeFullName": "New York Stock Exchange", "exchange": "NYSE"}
 {"symbol": "RANA.OL", "name": "Rana Gruber ASA", "currency": "NOK", "exchangeFullName": "Oslo Stock Exchange", "exchange": "OSL"}
-{"symbol": "PTDU.JK", "name": "PT Djasa Ubersakti Tbk", "currency": "IDR", "exchangeFullName": "Jakarta Stock Exchange", "exchange": "JKT"}
+{"symbol": "PTDU.JK", "name": "PT Djasa Ubersakti Tbk", "currency": "IDR", "exchangeFullName": "Indonesia Stock Exchange", "exchange": "JKT"}
 {"symbol": "ZIPP", "name": "STKd 100% UBER & 100% TSLA ETF", "currency": "USD", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ"}
 {"symbol": "UBR3.L", "name": "Leverage Shares 3x UBER ETP", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "UBR2.L", "name": "Leverage Shares 2x Uber ETC", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
@@ -483,6 +490,7 @@
 {"symbol": "3PYP.L", "name": "Leverage Shares 3x PayPal ETP", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "3PYE.L", "name": "Leverage Shares 3x PayPal ETP Securities", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "3SPP.MI", "name": "GraniteShares 3x Short PayPal Daily ETP", "currency": "EUR", "exchangeFullName": "Italian Stock Exchange", "exchange": "MIL"}
+{"symbol": "SE1.L", "name": "Leverage Shares -1x Short PayPal ETP", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "SPYP.L", "name": "Leverage Shares -1x Short PayPal ETP Securities", "currency": "GBp", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "SPYE.L", "name": "Leverage Shares -1x Short PayPal ETP Securities", "currency": "EUR", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
 {"symbol": "PYPS.L", "name": "Leverage Shares -1x Short PayPal ETP Securities", "currency": "USD", "exchangeFullName": "London Stock Exchange", "exchange": "LSE"}
