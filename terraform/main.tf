@@ -19,6 +19,20 @@ resource "google_storage_bucket_object" "company_data" {
   bucket       = google_storage_bucket.static.name
 }
 
+resource "google_bigquery_table" "fmp_data_bronze" {
+  dataset_id = google_bigquery_dataset.fmp_dataset.dataset_id
+  table_id   = "fmp_data"
+  # location   = "EU"
+
+  external_data_configuration {
+    autodetect  = true
+    source_uris = [
+       "gs://${google_storage_bucket.static.name}/companies_data.json"
+    ]
+    source_format = "NEWLINE_DELIMITED_JSON"
+  }
+}
+
 resource "google_bigquery_dataset" "fmp_dataset" {
   dataset_id = "fmp_data"
   location   = "EU"
