@@ -15,8 +15,9 @@ This project is a hands-on implementation of an ELT (Extract, Load, Transform) p
       - [Plan] (https://bronzed-ixia-965.notion.site/Project-Stock-Market-ELT-on-Google-Cloud-ELT-Medallion-pipeline-on-GCP-cleanly-structured-into-E-2174a269255a80c88935e46908456432)
     
 
-🔄 Transformations
-📚 Resources
+#🔄 Transformations
+#📚 Resources
+
   https://cloud.google.com/storage/docs/
   https://chatgpt.com/
   https://financialmodelingprep.com/developer/docs
