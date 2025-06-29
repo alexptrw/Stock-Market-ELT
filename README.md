@@ -1,6 +1,7 @@
 # 📊 Stock-Market-ELT
 
-This project is a hands-on implementation of an ELT (Extract, Load, Transform) pipeline built on Google Cloud Platform (GCP) using Terraform for infrastructure as code (IaC). The goal was to get practical experience with cloud services, APIs, data pipelines, and SQL-based data transformations — seeing how everything fits together in a real-world workflow.
+This project is a hands-on implementation of an **ELT** pipeline built on **GCP** using **Terraform** for infrastructure as code (IaC).  It was designed as a practical exercise to gain experience working with cloud services, APIs, data pipelines, and SQL-based data transformations — connecting the pieces of a real-world workflow.
+
 
 # 📁 Project Structure
     .
@@ -50,7 +51,11 @@ This project is a hands-on implementation of an ELT (Extract, Load, Transform) p
     
 
 # 💡 Reflections
-I really enjoyed working on this project and learned a lot in the process. It wasn’t all smooth sailing — I ran into plenty of issues, from Terraform refusing to create a BigQuery dataset to completely breaking my GitHub Codespace and losing part of my work while trying to recover it. But that’s all part of the process. Every bug, misstep, and fix helped me build a better understanding of cloud data workflows and infrastructure as code, moving me closer to my goal of becoming learning more engineering skills.
+I really enjoyed working on this project and learned a lot in the process. It wasn’t all smooth sailing — I ran into plenty of issues, from Terraform refusing to create BigQuery datasets to breaking my GitHub Codespace and having to recover lost work. But every setback turned into a learning opportunity, deepening my understanding of cloud data workflows and infrastructure as code.
+
+One of the biggest takeaways was realizing that you don’t need to be proficient in every single tool or concept to get meaningful results. It’s possible to build useful, working solutions while learning on the go, troubleshooting problems as they come, and improving with each iteration. There’s definitely room to refine and optimize this project, but it achieved its most important goal: gaining hands-on, practical experience and proving that steady progress matters more than perfection.
+
+
 # 👋 About Me
 Hi, I'm Aleks, a Data Automation Specialist with over 3 years of experience working with data and a genuine passion for all things data-related. I’m currently focused on expanding my skills in SQL, data architecture, and Python (Pandas) as part of my continuous learning journey.This project is part of my journey to deepen my technical knowledge and gain hands-on experience with modern data tools and cloud workflows. Along the way, I’ve been building up my familiarity with Python, SQL, GitHub, data modeling, and Cloud Computing, working towards delivering impactful, scalable data solutions in collaborative environments.
 
