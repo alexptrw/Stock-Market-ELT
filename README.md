@@ -57,7 +57,7 @@ One of the biggest takeaways was realizing that you don’t need to be proficien
 
 
 # 👋 About Me
-Hi, I'm Aleks, a Data Automation Specialist with genuine passion for all things data-related. I’m currently focused on expanding my skills in SQL, data architecture, Python and more as part of my continuous learning journey.This project is part of my journey to deepen my technical knowledge and gain hands-on experience with modern data tools and cloud workflows. Along the way, I’ve been building up my familiarity with Python, SQL, GitHub, data modeling, and Cloud Computing, working towards delivering impactful, scalable data solutions in collaborative environments.
+Hi, I'm Aleks, a Data Automation Specialist with genuine passion for all things data-related. I’m currently focused on expanding my skills in SQL, data architecture, Python and more as part of my continuous learning journey.This project is part of my journey to deepen my technical knowledge and gain hands-on experience with modern data tools and cloud workflows.
 
 🔗 [Let's connect](https://www.linkedin.com/in/aleksandra-petrova-a582351b2/)
 
