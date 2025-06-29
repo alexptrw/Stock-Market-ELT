@@ -9,6 +9,7 @@ This project is a hands-on implementation of an ELT (Extract, Load, Transform) p
     ├── data
     │   └── companies_data.json
     ├── diagams
+    │   └── FMPdiagram.jpg
     ├── requirements.txt
     ├── scripts
     │   ├── big_q_data_to_gold.sql
@@ -22,8 +23,21 @@ This project is a hands-on implementation of an ELT (Extract, Load, Transform) p
     └── test
         └── biq_q_data_validations.sql
 
-6 directories, 12 files
 # 📌 Workflow
+**Bronze Layer**: Raw unstructured JSON files from FMP API loaded to GCS.
+
+**Silver Layer**:  
+- Cleans symbols, exchanges, names.
+- Uppercases relevant fields.
+- Detects forex symbols.
+- Adds row IDs and timestamps.
+
+**Gold Layer**:  
+- Splits forex vs non-forex companies.
+- Summarizes exchanges and symbol counts.
+- Flags companies listed on multiple exchanges.
+
+
 # ⚙️ Tech Stack
   - -Google Cloud Platform (GCP)
       - Cloud Storage — for storing raw JSON files (Bronze Layer)
