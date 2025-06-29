@@ -2,6 +2,27 @@
 
 This project is a hands-on implementation of an ELT (Extract, Load, Transform) pipeline built on Google Cloud Platform (GCP) using Terraform for infrastructure as code (IaC). The goal was to get practical experience with cloud services, APIs, data pipelines, and SQL-based data transformations — seeing how everything fits together in a real-world workflow.
 
+# 📁 Project Structure
+    .
+    ├── LICENSE
+    ├── README.md
+    ├── data
+    │   └── companies_data.json
+    ├── diagams
+    ├── requirements.txt
+    ├── scripts
+    │   ├── big_q_data_to_gold.sql
+    │   ├── big_q_data_to_silver.sql
+    │   └── initial_data_exploration.ipynb
+    ├── terraform
+    │   ├── main.tf
+    │   ├── sa_key.json
+    │   ├── terraform.tfstate
+    │   └── terraform.tfstate.backup
+    └── test
+        └── biq_q_data_validations.sql
+
+6 directories, 12 files
 # 📌 Workflow
 # ⚙️ Tech Stack
   - -Google Cloud Platform (GCP)
